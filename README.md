@@ -1,7 +1,7 @@
 # PrimeFinder
 Final project (Bonus) for EEL 3801 Computer Organization Summer 2022.
 
-In this project we used MARS4.5 development enviroment to write a MIPS 32 program to find all prime numbers using the Sieve of Erasthonese approach. 
+In this project we used MARS4.5 development enviroment to write a MIPS 32 program to find all prime numbers up to 1024 using the Sieve of Erasthonese approach. 
 
 In order to run this project you will need to follow these steps:
 
